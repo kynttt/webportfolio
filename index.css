@@ -4,6 +4,8 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
   }
+
+
   .parent:first-of-type {
     
     background:  url("./img/15.jpg") no-repeat center center fixed;
